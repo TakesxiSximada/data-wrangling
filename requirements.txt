@@ -48,7 +48,7 @@ notebook==4.2.3
 numpy==1.11.2
 oauth==1.0.1
 oauth2==1.9.0.post1
-oauthlib==2.0.0
+oauthlib==2.0.1
 parsedatetime==2.1
 path.py==9.0
 pdfdocument==3.1
