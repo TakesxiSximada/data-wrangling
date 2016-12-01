@@ -42,7 +42,7 @@ jupyter-core==4.2.0
 lxml==3.6.4
 mistune==0.7.3
 nbconvert==4.2.0
-nbformat==4.1.0
+nbformat==4.2.0
 normality==0.3.6
 notebook==4.2.3
 numpy==1.11.2
@@ -69,7 +69,7 @@ pytimeparse==1.1.5
 pytz==2016.7
 pyzmq==16.0.2
 queuelib==1.4.2
-requests==2.12.2
+requests==2.12.3
 requests-oauthlib==0.7.0
 selenium==3.0.2
 service-identity==16.0.0
