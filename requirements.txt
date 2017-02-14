@@ -70,7 +70,7 @@ pytz==2016.10
 pyzmq==16.0.2
 queuelib==1.4.2
 requests==2.13.0
-requests-oauthlib==0.7.0
+requests-oauthlib==0.8.0
 selenium==3.0.2
 service-identity==16.0.0
 simplegeneric==0.8.1
