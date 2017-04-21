@@ -71,7 +71,7 @@ pyzmq==16.0.2
 queuelib==1.4.2
 requests==2.13.0
 requests-oauthlib==0.8.0
-selenium==3.3.3
+selenium==3.4.0
 service-identity==16.0.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
@@ -85,4 +85,4 @@ tweepy==3.5.0
 w3lib==1.17.0
 wsgiref==0.1.2
 xlrd==1.0.0
-zope.interface==4.3.3
+zope.interface==4.4.0
