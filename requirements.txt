@@ -5,7 +5,7 @@ Mako==1.0.6
 MarkupSafe==1.0
 PyYAML==3.12
 Pygments==2.2.0
-SQLAlchemy==1.1.9
+SQLAlchemy==1.1.10
 Scrapy==1.4.0
 Twisted==17.1.0
 agate==1.6.0
