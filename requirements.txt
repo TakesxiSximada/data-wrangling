@@ -27,7 +27,7 @@ decorator==4.1.1
 enum34==1.1.6
 functools32==3.2.3.post2
 futures==3.1.1
-fuzzywuzzy==0.15.0
+fuzzywuzzy==0.15.1
 httplib2==0.10.3
 hypchat==0.21
 idna==2.5
