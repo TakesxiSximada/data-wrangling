@@ -65,7 +65,7 @@ pygal==2.4.0
 pygal-maps-world==1.0.2
 python-dateutil==2.6.1
 python-editor==1.0.3
-pytimeparse==1.1.6
+pytimeparse==1.1.7
 pytz==2017.2
 pyzmq==16.0.2
 queuelib==1.4.2
