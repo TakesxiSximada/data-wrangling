@@ -26,7 +26,7 @@ dataset==1.0.3
 decorator==4.1.2
 enum34==1.1.6
 functools32==3.2.3.post2
-futures==3.1.1
+futures==3.2.0
 fuzzywuzzy==0.15.1
 httplib2==0.10.3
 hypchat==0.21
