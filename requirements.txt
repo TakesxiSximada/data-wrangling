@@ -22,7 +22,7 @@ cffi==1.11.2
 characteristic==14.3.0
 cryptography==2.1.4
 cssselect==1.0.3
-dataset==1.0.4
+dataset==1.0.5
 decorator==4.1.2
 enum34==1.1.6
 functools32==3.2.3.post2
