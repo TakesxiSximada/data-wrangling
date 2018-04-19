@@ -85,4 +85,4 @@ tweepy==3.6.0
 w3lib==1.19.0
 wsgiref==0.1.2
 xlrd==1.1.0
-zope.interface==4.4.3
+zope.interface==4.5.0
