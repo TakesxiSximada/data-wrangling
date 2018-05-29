@@ -54,7 +54,7 @@ path.py==11.0.1
 pdfdocument==3.2
 pdfminer==20140328
 pdftables==0.0.4
-pexpect==4.5.0
+pexpect==4.6.0
 pickleshare==0.7.4
 ptyprocess==0.5.2
 pyOpenSSL==18.0.0
