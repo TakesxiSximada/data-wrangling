@@ -6,7 +6,7 @@ MarkupSafe==1.0
 PyYAML==4.1
 Pygments==2.2.0
 SQLAlchemy==1.2.9
-Scrapy==1.5.0
+Scrapy==1.5.1
 Twisted==18.4.0
 agate==1.6.1
 agate-stats==0.4.0
