@@ -33,7 +33,7 @@ hypchat==0.21
 idna==2.7
 ipaddress==1.0.22
 ipykernel==4.8.2
-ipython==6.4.0
+ipython==6.5.0
 ipython-genutils==0.2.0
 isodate==0.6.0
 jsonschema==2.6.0
