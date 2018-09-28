@@ -50,7 +50,7 @@ oauth==1.0.1
 oauth2==1.9.0.post1
 oauthlib==2.1.0
 parsedatetime==2.4
-path.py==11.3.0
+path.py==11.4.0
 pdfdocument==3.2
 pdfminer==20140328
 pdftables==0.0.4
