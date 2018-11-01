@@ -71,7 +71,7 @@ pyzmq==17.1.2
 queuelib==1.5.0
 requests==2.20.0
 requests-oauthlib==1.0.0
-selenium==3.14.1
+selenium==3.141.0
 service-identity==17.0.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
