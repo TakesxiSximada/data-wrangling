@@ -82,7 +82,7 @@ tinycss==0.4
 tornado==5.1.1
 traitlets==4.3.2
 tweepy==3.7.0
-w3lib==1.19.0
+w3lib==1.20.0
 wsgiref==0.1.2
 xlrd==1.2.0
 zope.interface==4.6.0
