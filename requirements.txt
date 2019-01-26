@@ -5,12 +5,12 @@ Mako==1.0.7
 MarkupSafe==1.1.0
 PyYAML==3.13
 Pygments==2.3.1
-SQLAlchemy==1.2.16
+SQLAlchemy==1.2.17
 Scrapy==1.5.2
 Twisted==18.9.0
 agate==1.6.1
 agate-stats==0.4.0
-alembic==1.0.6
+alembic==1.0.7
 argparse==1.4.0
 backports-abc==0.5
 backports.ssl-match-hostname==3.7.0.1
