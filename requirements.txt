@@ -64,7 +64,7 @@ pycparser==2.19
 pygal==2.4.0
 pygal-maps-world==1.0.2
 python-dateutil==2.7.5
-python-editor==1.0.3
+python-editor==1.0.4
 pytimeparse==1.1.8
 pytz==2018.9
 pyzmq==17.1.2
