@@ -63,7 +63,7 @@ pyasn1-modules==0.2.4
 pycparser==2.19
 pygal==2.4.0
 pygal-maps-world==1.0.2
-python-dateutil==2.7.5
+python-dateutil==2.8.0
 python-editor==1.0.4
 pytimeparse==1.1.8
 pytz==2018.9
