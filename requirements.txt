@@ -39,7 +39,7 @@ isodate==0.6.0
 jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-lxml==4.3.2
+lxml==4.3.3
 mistune==0.8.4
 nbconvert==5.4.1
 nbformat==4.4.0
