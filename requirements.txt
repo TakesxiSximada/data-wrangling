@@ -67,7 +67,7 @@ python-dateutil==2.8.0
 python-editor==1.0.4
 pytimeparse==1.1.8
 pytz==2019.1
-pyzmq==18.0.1
+pyzmq==18.0.2
 queuelib==1.5.0
 requests==2.22.0
 requests-oauthlib==1.2.0
