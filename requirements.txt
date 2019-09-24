@@ -10,7 +10,7 @@ Scrapy==1.7.3
 Twisted==19.7.0
 agate==1.6.1
 agate-stats==0.4.0
-alembic==1.2.0
+alembic==1.2.1
 argparse==1.4.0
 backports-abc==0.5
 backports.ssl-match-hostname==3.7.0.1
