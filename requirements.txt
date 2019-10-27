@@ -23,7 +23,7 @@ characteristic==14.3.0
 cryptography==2.8
 cssselect==1.1.0
 dataset==1.1.2
-decorator==4.4.0
+decorator==4.4.1
 enum34==1.1.6
 functools32==3.2.3.post2
 futures==3.3.0
