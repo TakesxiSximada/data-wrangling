@@ -49,7 +49,7 @@ numpy==1.17.4
 oauth==1.0.1
 oauth2==1.9.0.post1
 oauthlib==3.1.0
-parsedatetime==2.4
+parsedatetime==2.5
 path.py==12.0.2
 pdfdocument==3.3
 pdfminer==20191103
