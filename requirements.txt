@@ -17,7 +17,7 @@ backports.ssl-match-hostname==3.7.0.1
 beautifulsoup4==4.8.1
 bokeh==1.4.0
 cairocffi==1.0.2
-certifi==2019.9.11
+certifi==2019.11.28
 cffi==1.13.2
 characteristic==14.3.0
 cryptography==2.8
