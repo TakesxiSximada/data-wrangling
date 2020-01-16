@@ -28,7 +28,7 @@ enum34==1.1.6
 functools32==3.2.3.post2
 futures==3.3.0
 fuzzywuzzy==0.17.0
-httplib2==0.15.0
+httplib2==0.16.0
 hypchat==0.21
 idna==2.8
 ipaddress==1.0.23
