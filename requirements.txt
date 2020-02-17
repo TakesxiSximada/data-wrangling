@@ -30,7 +30,7 @@ futures==3.3.0
 fuzzywuzzy==0.18.0
 httplib2==0.17.0
 hypchat==0.21
-idna==2.8
+idna==2.9
 ipaddress==1.0.23
 ipykernel==5.1.4
 ipython==7.12.0
