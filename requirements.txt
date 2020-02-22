@@ -24,7 +24,7 @@ cryptography==2.8
 cssselect==1.1.0
 dataset==1.2.0
 decorator==4.4.1
-enum34==1.1.8
+enum34==1.1.9
 functools32==3.2.3.post2
 futures==3.3.0
 fuzzywuzzy==0.18.0
