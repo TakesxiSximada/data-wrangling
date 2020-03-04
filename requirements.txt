@@ -60,7 +60,7 @@ ptyprocess==0.6.0
 pyOpenSSL==19.1.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycparser==2.19
+pycparser==2.20
 pygal==2.4.0
 pygal-maps-world==1.0.2
 python-dateutil==2.8.1
