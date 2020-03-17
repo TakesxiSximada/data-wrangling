@@ -45,7 +45,7 @@ nbconvert==5.6.1
 nbformat==5.0.4
 normality==2.0.0
 notebook==6.0.3
-numpy==1.18.1
+numpy==1.18.2
 oauth==1.0.1
 oauth2==1.9.0.post1
 oauthlib==3.1.0
