@@ -32,7 +32,7 @@ httplib2==0.17.0
 hypchat==0.21
 idna==2.9
 ipaddress==1.0.23
-ipykernel==5.1.4
+ipykernel==5.2.0
 ipython==7.13.0
 ipython-genutils==0.2.0
 isodate==0.6.0
