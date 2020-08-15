@@ -18,7 +18,7 @@ beautifulsoup4==4.9.1
 bokeh==2.1.1
 cairocffi==1.0.2
 certifi==2020.6.20
-cffi==1.14.1
+cffi==1.14.2
 characteristic==14.3.0
 cryptography==3.0
 cssselect==1.1.0
