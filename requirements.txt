@@ -44,7 +44,7 @@ mistune==0.8.4
 nbconvert==6.0.7
 nbformat==5.0.8
 normality==2.1.1
-notebook==6.1.4
+notebook==6.1.5
 numpy==1.19.4
 oauth==1.0.1
 oauth2==1.9.0.post1
@@ -85,4 +85,4 @@ tweepy==3.9.0
 w3lib==1.22.0
 wsgiref==0.1.2
 xlrd==1.2.0
-zope.interface==5.1.2
+zope.interface==5.2.0
