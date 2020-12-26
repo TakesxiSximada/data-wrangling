@@ -81,7 +81,7 @@ terminado==0.9.1
 tinycss==0.4
 tornado==6.1
 traitlets==5.0.5
-tweepy==3.9.0
+tweepy==3.10.0
 w3lib==1.22.0
 wsgiref==0.1.2
 xlrd==2.0.1
