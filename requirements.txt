@@ -42,7 +42,7 @@ jupyter-core==4.7.0
 lxml==4.6.2
 mistune==0.8.4
 nbconvert==6.0.7
-nbformat==5.0.8
+nbformat==5.1.0
 normality==2.1.1
 notebook==6.2.0
 numpy==1.19.5
