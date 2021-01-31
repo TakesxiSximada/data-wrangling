@@ -38,7 +38,7 @@ ipython-genutils==0.2.0
 isodate==0.6.0
 jsonschema==3.2.0
 jupyter-client==6.1.11
-jupyter-core==4.7.0
+jupyter-core==4.7.1
 lxml==4.6.2
 mistune==0.8.4
 nbconvert==6.0.7
