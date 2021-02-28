@@ -7,7 +7,7 @@ PyYAML==5.4.1
 Pygments==2.8.0
 SQLAlchemy==1.3.23
 Scrapy==2.4.1
-Twisted==20.3.0
+Twisted==21.2.0
 agate==1.6.1
 agate-stats==0.4.0
 alembic==1.5.5
