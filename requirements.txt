@@ -1,5 +1,5 @@
 Babel==2.9.0
-CairoSVG==2.5.1
+CairoSVG==2.5.2
 Jinja2==2.11.3
 Mako==1.1.4
 MarkupSafe==1.1.1
