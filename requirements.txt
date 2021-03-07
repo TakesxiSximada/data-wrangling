@@ -4,7 +4,7 @@ Jinja2==2.11.3
 Mako==1.1.4
 MarkupSafe==1.1.1
 PyYAML==5.4.1
-Pygments==2.8.0
+Pygments==2.8.1
 SQLAlchemy==1.3.23
 Scrapy==2.4.1
 Twisted==21.2.0
