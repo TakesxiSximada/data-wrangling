@@ -8,7 +8,7 @@ Pygments==2.8.1
 SQLAlchemy==1.3.23
 Scrapy==2.4.1
 Twisted==21.2.0
-agate==1.6.1
+agate==1.6.2
 agate-stats==0.4.0
 alembic==1.5.6
 argparse==1.4.0
