@@ -77,7 +77,7 @@ simplegeneric==0.8.1
 singledispatch==3.6.1
 six==1.15.0
 slate==0.5.2
-terminado==0.9.2
+terminado==0.9.3
 tinycss==0.4
 tornado==6.1
 traitlets==5.0.5
