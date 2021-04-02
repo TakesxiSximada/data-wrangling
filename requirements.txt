@@ -5,7 +5,7 @@ Mako==1.1.4
 MarkupSafe==1.1.1
 PyYAML==5.4.1
 Pygments==2.8.1
-SQLAlchemy==1.4.4
+SQLAlchemy==1.4.5
 Scrapy==2.4.1
 Twisted==21.2.0
 agate==1.6.2
@@ -23,7 +23,7 @@ characteristic==14.3.0
 cryptography==3.4.7
 cssselect==1.1.0
 dataset==1.4.5
-decorator==5.0.2
+decorator==5.0.3
 enum34==1.1.10
 functools32==3.2.3.post2
 futures==3.3.0
