@@ -15,7 +15,7 @@ argparse==1.4.0
 backports-abc==0.5
 backports.ssl-match-hostname==3.7.0.1
 beautifulsoup4==4.9.3
-bokeh==2.3.1
+bokeh==2.3.2
 cairocffi==1.2.0
 certifi==2020.12.5
 cffi==1.14.5
